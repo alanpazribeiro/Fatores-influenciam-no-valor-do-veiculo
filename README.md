@@ -8,7 +8,7 @@ Analisar os dados coletados afim de verificar quais fatores influenciam no preç
 - Numpy
 
 # Descrição do Projeto
-Seu projeto é preparar um relatório para o departamento de marketing sobre os veículos anunciados diariamente no site, determinando quais fatores influenciaram o preço de um veículo.
+O objetivo é preparar um relatório para o departamento de marketing sobre os veículos anunciados diariamente no site, determinando quais fatores influenciaram o preço de um veículo.
 
 # Descrição dos Dados
 
