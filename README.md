@@ -1,4 +1,3 @@
-
 # Objetivo do Projeto
 Analisar os dados coletados afim de verificar quais fatores influenciam no preço de um veículo.
 
