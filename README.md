@@ -24,3 +24,15 @@ O conjunto de dados contém os seguintes campos:
 - *is_4wd* — Se o veículo é 4 por 4 (tipo Booleano)
 - *date_posted* — a data que a propaganda foi publicada
 - *days_listed* — dias desde a publicação até a retirada
+
+# Execução do Projeto
+
+- Passo 1. Carregamento os dados e prepare-os para a análise
+  - Verificado tipo de dado
+  - Nulos/faltantes
+  - organizar/renomear colunas
+  - colunas tipo datetime
+  - amplitude das variáveis
+  - tipos de dados categóricos
+  - valores duplicados
+  - espaços e caracteres especiais nos dados
